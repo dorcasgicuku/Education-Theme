@@ -10,4 +10,5 @@ function theme_setup()
 }
 add_action('init','theme_setup');
 register_nav_menu('Main Menu','Main menu');
+register_nav_menu('Footer Menu','footer menu');
 ?>
