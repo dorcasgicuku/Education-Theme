@@ -1,22 +1,8 @@
 <section id="panes" class="pane-section">
    
-    <table>
+    <table id="latest" class="latest-news-table">
         <tr>
-          <td>
-              <div ">
-                  <div title="Popular" >
-                      First Tab
-                  </div>
-                  <div title="Recent"  >
-                      Second Tab
-                  </div>
-                  <div title="Comments"  >
-                      Third Tab
-                  </div>
-              </div>
-
-          </td>
-            <td>
+            <td id="latestTd" class="latest-td-section">
                 <div id="mmust-news" class="news">
                     <h1>Latest News</h1>
                          <div id="recent" class="recent-news">
@@ -38,6 +24,7 @@
                       </div>
                 </div>
             </td>
+            <td id="otherTd" class="other-td-section">Other things</td>
        </tr>
     </table>
 
