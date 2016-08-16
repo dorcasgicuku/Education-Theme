@@ -10,17 +10,27 @@ li{
 	 display: inline;
 	
 }
-a{
+.menu-main-menu-container,.menu a{
 	text-decoration: none;
+	color:white;
 	 
 }
-ul{
-	
-	text-align: center;
-	position: relative;
-	margin: 0;
-    padding: 0;
-}
-.menu{
-	position: relative;
-}
+
+
+.menu-main-menu-container ,.menu-footer-menu-container ul {
+      list-style: none;
+      background-color: grey;
+      text-align: center;
+      padding: 0;
+      margin-right: 15%;
+	    margin-left: 10%;
+    }
+    .menu-main-menu-container,.menu-footer-menu-container li {
+    	
+      font-family: 'Oswald', sans-serif;
+      font-size: 1.2em;
+      line-height: 40px;
+      height: 40px;
+    border-bottom: 10px;
+    }
+

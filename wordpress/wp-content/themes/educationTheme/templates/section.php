@@ -9,7 +9,7 @@
                         </div>
 
                         <div id="facility-image">
-                            <img src="facility.jpg">
+                            <img src="<?php bloginfo('stylesheet_directory');?>/img/facility.jpg" alt="logo Icon" style="width:100%;height:128px">
                         </div>
 
                         <div id="facility-explain" class="facility-section-explain">
@@ -23,7 +23,7 @@
                             <h1>The Buildings</h1>
                         </div>
                         <div>
-                            <img src="/img/spd.jpeg">
+                            <img src="<?php bloginfo('stylesheet_directory');?>/img/spd.jpeg" alt="logo Icon" style="width:100%;height:128px">
                         </div>
                         <div>
                             <p>This section shows the different buldings in the university.</p>
@@ -35,7 +35,7 @@
                             <h1>The Students</h1>
                         </div>
                         <div>
-                            <img src="/img/students.jpeg">
+                            <img src="<?php bloginfo('stylesheet_directory');?>/img/students.jpeg" alt="logo Icon" style="width:100%px;height:128px">
                         </div>
                         <div>
                             <p>This sections give a brief description of the students.</p>

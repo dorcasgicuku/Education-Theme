@@ -24,6 +24,7 @@
                       </div>
                 </div>
             </td>
+            
             <td id="otherTd" class="other-td-section">Other things</td>
        </tr>
     </table>
