@@ -5,3 +5,22 @@ body{
     padding-left: 50px;
     
 }
+li{
+	list-style: none;
+	 display: inline;
+	
+}
+a{
+	text-decoration: none;
+	 
+}
+ul{
+	
+	text-align: center;
+	position: relative;
+	margin: 0;
+    padding: 0;
+}
+.menu{
+	position: relative;
+}
