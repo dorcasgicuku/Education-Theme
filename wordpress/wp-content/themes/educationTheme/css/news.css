@@ -1,0 +1,27 @@
+
+.mmust-news-div
+{
+	 margin-left: 10% ;
+	 border-style:dotted;
+      margin-right: 12.5%;
+      border-width: 5px;
+	border-color: red;
+	
+}
+#mmust-latest-news
+{
+	width: 30%;
+	border-style:solid;
+	border-width: 5px;
+	border-color: grey;
+	margin-top:10px;
+    border-radius: 8px;
+    
+}
+#university-explanation
+{
+background-color: green;
+width:70%;
+
+
+}
