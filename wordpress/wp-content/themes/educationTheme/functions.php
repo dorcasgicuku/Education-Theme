@@ -11,4 +11,13 @@ function theme_setup()
 add_action('init','theme_setup');
 register_nav_menu('Main Menu','Main menu');
 register_nav_menu('Footer Menu','footer menu');
+
+function my_custom_background_setup() {
+ /*$args = array(
+    'default-color' => 'red',
+    'default-image' => '',
+  );*/
+  add_theme_support( 'custom-background'/*, $args */);
+}
+add_action( 'after_setup_theme', 'my_custom_background_setup' );
 ?>
