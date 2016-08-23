@@ -19,7 +19,7 @@
 </div>
 
 
-        <div class="mmust-news-div mmust explanation">
+        <div class="mmust-news-div mmust-explanation">
             <h1>Explanation about the university</h1>
                   <p>
                     MMUST holds the view that science and technology is an indispensable tool in harnessing resources of nature for sustainable development and creating an environment in which human beings can survive and realize their potential. Thus, the human person has the moral obligation to creatively improve the environment. This can be achieved through a well-conceptualized educational, scientific and technological package through which every human being must rightfully experience and acquire the tools to facilitate this mission.
