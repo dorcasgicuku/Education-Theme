@@ -1,0 +1,16 @@
+.latest-news-table{
+	width:75%;
+	margin-left: 10%;
+	background-color: brown;
+}
+.latest-td-section{
+	background-color: blue;
+	border-color:red;
+	border-style:solid;
+	width:30%;
+
+}
+.other-td-section{
+	background-color: red;
+	width:70%;
+}

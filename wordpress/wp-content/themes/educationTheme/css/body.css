@@ -1,0 +1,36 @@
+html,
+body{
+	
+	background-color: lightblue;
+    /*padding-left: 50px;*/
+    width:100%;
+}
+li{
+	list-style: none;
+	 display: inline;
+	
+}
+.menu-main-menu-container,.menu a{
+	text-decoration: none;
+	color:white;
+	 
+}
+
+
+.menu-main-menu-container ,.menu-footer-menu-container ul {
+      list-style: none;
+      background-color: grey;
+      text-align: center;
+      padding: 0;
+      margin-right: 15%;
+	    margin-left: 10%;
+    }
+    .menu-main-menu-container,.menu-footer-menu-container li {
+    	
+      font-family: 'Oswald', sans-serif;
+      font-size: 1.2em;
+      line-height: 40px;
+      height: 40px;
+    border-bottom: 10px;
+    }
+

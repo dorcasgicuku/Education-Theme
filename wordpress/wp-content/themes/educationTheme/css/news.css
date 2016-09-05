@@ -19,14 +19,16 @@
 
     
 }
-.mmust-explanation
+.explain-text
 {
-
+	margin-left: 10% ;
+	margin-right: 12.5%;
 
 width:57%;
  border-style:dotted;
       border-width: 5px;
-	border-color: green;
+	border-color: red;
+
 	
 
 }
